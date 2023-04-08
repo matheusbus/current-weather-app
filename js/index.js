@@ -1,13 +1,6 @@
-// End point to Call 16 day / daily forecast data
-// api.openweathermap.org/data/2.5/forecast/daily?lat={lat}&lon={lon}&cnt={cnt}&appid={API key}
-
-// End point to Call current weather data
-// https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
-
-
 
 // Variáveis e seleção de eventos
-const apiKey = "4cb7f05e58631d34b9fc0f76373a5738";
+const apiKey = ""; // Environment variable
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
 const cityInput = document.querySelector("#city-input");
