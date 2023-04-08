@@ -1,4 +1,4 @@
-# :earth_africa: Current Weather App
+# :cloud: Current Weather App
 A simple landing page that allows the user to search for cities and see the current weather.
 
 :point_right: Here is an example of the page in search for Vienna's city
